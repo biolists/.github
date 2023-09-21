@@ -8,3 +8,4 @@ A list of lists for bio things. Here's the gist of it:
 - Alex Morehead - [Awesome Molecular Generation](https://github.com/amorehead/awesome-molecular-generation)
 - Simon Duerr & Gina El Nesr - [Protein Sequence Design/Inverse Folding](https://github.com/biolists/folding_tools/blob/main/proteinsequencedesign.md)
 - Noelia Ferruz - [Protein Design DL methods](https://github.com/hefeda/tmp/blob/main/proteindesignDLmethods.md)
+- Christian Dallago - [Diffusion in Bio](https://github.com/biolists/biodiffusion)
